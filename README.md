@@ -14,7 +14,7 @@ Zoneminder NVR install script for Debian 12:
 6.    Finised.
 <br>
 <br>
-Buy me a cup of koffee! 🙂👍 <br>
+Buy me a cup of coffee! 🙂👍 <br>
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
