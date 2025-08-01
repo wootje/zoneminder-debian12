@@ -19,3 +19,6 @@ https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
 <img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
+<img src="https://img.shields.io/github/downloads/wootje/zoneminder-debian12/total.svg"></img>
